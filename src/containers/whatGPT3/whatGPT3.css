@@ -27,10 +27,12 @@
     display: flex;
 }
 
+/* Customizing feature component as per needs */
 .gpt3__whatgpt3-feature .gpt3__features-container__feature {
     margin: 0;
 }
 
+/* Customizing feature component as per needs */
 .gpt3__whatgpt3-feature .gpt3__features-container_feature-text {
     max-width: 700px;
 }
@@ -64,7 +66,7 @@
 .gpt3__whatgpt3-container {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
+    flex-direction: column;
 
     margin-top: 2rem;
 }
